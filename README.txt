@@ -26,3 +26,11 @@ Output from script will appear in remix terminal.
 Please note, require/import is supported in a limited manner for Remix supported modules.
 For now, modules supported by Remix are ethers, web3, swarmgw, chai, multihashes, remix and hardhat only for hardhat.ethers object/plugin.
 For unsupported modules, an error like this will be thrown: '<module_name> module require is not supported by Remix IDE' will be shown.
+
+
+Instructions to run
+
+1. You need to use REMIX IDE to run the smart contracts.
+
+2. Currently the contract is deployed on Ganache network
+
