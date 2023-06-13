@@ -37,3 +37,5 @@ contract mintyourcoins{
 
 
 // minter will generate current users address
+
+//Added new
